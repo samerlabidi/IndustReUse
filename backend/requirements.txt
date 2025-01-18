@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+slowapi
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+prometheus-client
+fastapi-cache2[redis]
+pytest
+httpx

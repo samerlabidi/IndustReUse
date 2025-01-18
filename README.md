@@ -27,25 +27,7 @@ IndustReUse is a web-based platform designed to facilitate the exchange of indus
 - Leaflet for maps
 
 ## Project Structure
-
-IndustReUse/
-├── backend/
-│ ├── app/
-│ │ ├── api/
-│ │ ├── models/
-│ │ ├── schemas/
-│ │ ├── services/
-│ │ └── main.py
-│ └── requirements.txt
-└── frontend/
-├── src/
-│ ├── components/
-│ ├── services/
-│ ├── App.js
-│ └── index.js
-└── package.json
-
-\\\
+```
 IndustReUse/
 ├── backend/
 │   ├── app/
@@ -62,7 +44,7 @@ IndustReUse/
     │   ├── App.js
     │   └── index.js
     └── package.json
-\\\
+```
 
 ## Setup Instructions
 
